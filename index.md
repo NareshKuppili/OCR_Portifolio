@@ -6,17 +6,17 @@ Seasoned data extraction specialist with vivid knowledge in designing, automatin
 
 # Summary
 
-●	Enabler in integrating machine learning based OCR stack with existing data entry and review processes.
-●	Experienced in text mining, feature engineering, data modelling, template creation & parameter tuning.
-●	Proficient in developing OCR systems using AWS Textract, Google Vision AI, Azure Computer Vision and Tesseract.
-●	Worked with Captiva OCR, Blue Prism RPA, ML/AI (ML.NET, Scikit-Learn, AWS SageMaker, Tensorflow 2.0).
-●	Strive for continuous improvement and build integration, development, and constant deployment pipeline (CI/CD).
-●	Experienced in C#, Python, PowerShell & SQL.
-●	Captiva 7 and ITIL V3 certified professional.
+*	Enabler in integrating machine learning based OCR stack with existing data entry and review processes.
+*	Experienced in text mining, feature engineering, data modelling, template creation & parameter tuning.
+*	Proficient in developing OCR systems using AWS Textract, Google Vision AI, Azure Computer Vision and Tesseract.
+*	Worked with Captiva OCR, Blue Prism RPA, ML/AI (ML.NET, Scikit-Learn, AWS SageMaker, Tensorflow 2.0).
+*	Strive for continuous improvement and build integration, development, and constant deployment pipeline (CI/CD).
+*	Experienced in C#, Python, PowerShell & SQL.
+*	Captiva 7 and ITIL V3 certified professional.
 
 # Work Experience
 
-## Consultant												         			ADP India Pvt Ltd
+## Consultant (ADP India Pvt Ltd)
 
 ### Used OpenText Captiva and Microsoft .NET APIs to customize and automate data extraction process of sensitive information from a variety of garnishment documents. Scrum master cum OCR development expert in designing human review flows for data keying and business validations. 
 
@@ -29,7 +29,7 @@ Seasoned data extraction specialist with vivid knowledge in designing, automatin
 *	Supporting deployments, tickets, code review, performance improvement, peer mentoring and customer queries.
 
 
-## Subject Matter Expert												         OpenText/EMC2
+## Subject Matter Expert (OpenText/EMC2)
 
 ### Providing premium quality consultations to customers of OpenText Captiva in design, development and implementation. Team coordinator in driving the CSAT metrics, skill enrichment, resource scheduling and consumer escalation management. 
 
@@ -41,7 +41,7 @@ Seasoned data extraction specialist with vivid knowledge in designing, automatin
 *	Interact with customers during problem investigation and resolution processes.
 
 
-## Software Engineer 												         		Accenture 
+## Software Engineer (Accenture)
 
 ### Supporting Accenture BPO unit by providing a custom ECM solution using OpenText Captiva, Kofax Capture, KTM, KTA, ReadSoft OCR, IBM FileNet and Documentum.
 
